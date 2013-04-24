@@ -31,5 +31,5 @@ And what happens with the list of IPs? Well, for now will renew it automatically
 Finally, for those interested on my experiment, here are the keys:
 - You can identify spammers accounts in your site (or you can avoid robots to create accounts, e.g., with Mollom), to delete it.
 - You can use cron in your server to call a PHP script every X hours.
-- 
+
 With this and the CheckIPs.php script, you can try my system and see what happens (always do a backup of .htaccess before test).
